@@ -1,2 +1,2 @@
-# power-bi-dashboard-project
-this is power bi end to end project
+# Credit_card_Financial_Dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
